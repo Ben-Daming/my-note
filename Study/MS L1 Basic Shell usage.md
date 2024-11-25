@@ -1,5 +1,5 @@
 # lecture1
-#shell [[MS L2]]
+#shell [[MS L2]] [[Missing semeter]]
 ## shell is the main textual interface you have to your computer.
 - command:命令
 - argument:参数

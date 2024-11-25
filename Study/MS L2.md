@@ -1,5 +1,5 @@
 # SHELL脚本
-#shell [[Missing Semester L1]] [[MS Linux 杂项]] 
+#shell [[MS L1 Basic Shell usage]] [[MS Linux 杂项]] [[Missing semeter]] 
 ## shell语言的基础语法:
 - $:取某变量的值
 - =:赋值符号
